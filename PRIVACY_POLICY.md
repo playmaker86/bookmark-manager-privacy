@@ -21,32 +21,21 @@ Bookmark Manager is committed to protecting your privacy. This extension:
 - **All operations are performed locally** - No bookmark data is ever sent to external servers
 - **We do not store, log, or transmit any bookmark data**
 
-### Optional API Usage
-- If you choose to use AI-powered categorization features:
-  - Some bookmarks may be sent to third-party AI services (e.g., Hugging Face) for categorization
-  - This requires explicit user consent
-  - You can disable this feature at any time
-  - **By default, this feature is disabled** and all processing happens locally
-
 ## Third-Party Services
-
-### Hugging Face Inference API
-- Used only for optional AI categorization features
-- Only accessed when explicitly enabled by the user
-- Subject to Hugging Face's own privacy policy
-- No personal information is shared with these services
+This extension does not use any third-party services or external APIs. All functionality is performed locally in your browser.
 
 ## Data Storage
 
 - All bookmark data is stored locally in Chrome's bookmark system
 - No data is stored in our servers
 - No data is stored in external databases
+- All processing and analysis happens entirely within your browser
 
 ## Contact Information
 
 If you have any questions about this Privacy Policy, please contact:
-- Email: ljh6c6a68@gmail.com
-- GitHub: https://github.com/playmaker86
+- Email: [Your Email]
+- GitHub: [Your GitHub Repository URL]
 
 ## Changes to This Privacy Policy
 
