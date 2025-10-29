@@ -45,8 +45,8 @@ Bookmark Manager is committed to protecting your privacy. This extension:
 ## Contact Information
 
 If you have any questions about this Privacy Policy, please contact:
-- Email: [Your Email]
-- GitHub: [Your GitHub Repository URL]
+- Email: ljh6c6a68@gmail.com
+- GitHub: https://github.com/playmaker86
 
 ## Changes to This Privacy Policy
 
