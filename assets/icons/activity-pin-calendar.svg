@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Activity Reservation Icon — Pin + Calendar -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <title>Activity Pin with Calendar</title>
+  <desc>Map pin combined with small calendar to indicate event location and reservation</desc>
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#4FC3F7"/>
+      <stop offset="1" stop-color="#2196F3"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="64" y="64" width="896" height="896" rx="160" fill="#E3F2FD"/>
+
+  <!-- Pin -->
+  <path d="M512 224 c-108 0 -196 88 -196 196 0 204 196 382 196 382 s196 -178 196 -382 c0 -108 -88 -196 -196 -196 z" fill="url(#g3)"/>
+  <circle cx="512" cy="420" r="86" fill="#FFFFFF"/>
+
+  <!-- Small calendar inside pin (overlapping) -->
+  <g transform="translate(380,520)">
+    <rect x="0" y="0" width="288" height="220" rx="20" fill="#FFFFFF" stroke="#B3E5FC" stroke-width="6"/>
+    <rect x="0" y="0" width="288" height="56" rx="12" fill="#E1F5FE"/>
+    <!-- lines/dots -->
+    <g fill="#4FC3F7">
+      <circle cx="56" cy="110" r="12"/>
+      <circle cx="144" cy="110" r="12"/>
+      <circle cx="232" cy="110" r="12"/>
+      <circle cx="56" cy="170" r="12"/>
+      <circle cx="144" cy="170" r="12"/>
+      <circle cx="232" cy="170" r="12"/>
+    </g>
+  </g>
+</svg>

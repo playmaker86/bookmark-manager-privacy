@@ -1,0 +1,2 @@
+# Python requirements for exporting SVG to PNG
+cairosvg>=2.5
